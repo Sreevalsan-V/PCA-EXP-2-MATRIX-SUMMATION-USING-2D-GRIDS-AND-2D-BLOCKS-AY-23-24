@@ -1,6 +1,6 @@
 
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
-<h3>ENTER YOUR NAME:Sreevalsan H</h3>
+<h3>ENTER YOUR NAME:Sreevalsan </h3>
 <h3>ENTER YOUR REGISTER NO:212223240158</h3>
 
 
